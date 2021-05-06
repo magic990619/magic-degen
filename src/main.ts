@@ -1,3 +1,4 @@
+// Degenerative (With Vue)
 import Vue from "vue";
 import VueMeta from "vue-meta";
 import iView from "iview";
