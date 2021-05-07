@@ -1,3 +1,8 @@
+//
+//
+// 
+// Author: Magic Dev
+
 import Vue from "vue";
 import injected from "@snapshot-labs/lock/connectors/injected";
 import walletconnect from "@snapshot-labs/lock/connectors/walletconnect";
