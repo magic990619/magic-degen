@@ -1,3 +1,8 @@
+//
+//
+// 
+// Author: Magic Dev
+
 <template>
   <div class="card" :style="style">
     <slot></slot>
