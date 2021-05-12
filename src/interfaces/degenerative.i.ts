@@ -1,3 +1,8 @@
+//
+//
+//
+// Author: Magic Dev
+
 import Web3 from "web3/types";
 export interface Degenerative {
   web3: Web3;
